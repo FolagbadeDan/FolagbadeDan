@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FolagbadeDan Aka whiteTiger
+- 👋 Hi, I’m Folagbade Daniel
 - 👀 I’m interested in ...web development, software development and digital marketing
 - 🌱 I’m currently learning ...JS phyton and react
 - 📫 How to reach me ...contactyoumaximize@gmail.com
